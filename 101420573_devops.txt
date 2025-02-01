@@ -11,3 +11,4 @@ Includes CI/CD pipelines with GitHub Actions.
 Includes CI/CD pipelines with GitHub Actions.
 Includes CI/CD pipelines with GitHub Actions.
 DevOps promotes collaboration between development and operations teams.
+Automation tools like Jenkins and Docker are part of DevOps practices.
