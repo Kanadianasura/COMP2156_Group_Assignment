@@ -1,1 +1,2 @@
 COMP 3104 DevOps focuses on automation, CI/CD, and agile practices.
+Includes CI/CD pipelines with GitHub Actions.
