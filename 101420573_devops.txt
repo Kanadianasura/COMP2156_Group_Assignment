@@ -10,3 +10,4 @@ Includes CI/CD pipelines with GitHub Actions.
 Includes CI/CD pipelines with GitHub Actions.
 Includes CI/CD pipelines with GitHub Actions.
 Includes CI/CD pipelines with GitHub Actions.
+DevOps promotes collaboration between development and operations teams.
