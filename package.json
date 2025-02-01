@@ -1,0 +1,32 @@
+{
+  "name": "comp2156_group_assignment",
+  "version": "1.0.0",
+  "description": "DevOps Group Assignment for COMP2156",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  } "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  } "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }     "type": "git",
+    "url": "git+https://github.com/Kanadianasura/COMP2156_Group_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanadianasura/COMP2156_Group_Assignment/issues"
+  },
+  "homepage": "https://github.com/Kanadianasura/COMP2156_Group_Assignment#readme"
+}
