@@ -1,1 +1,2 @@
 DevOps streamlines SDLC by integrating development and operations.
+DevOps reduces the time between development and deployment in SDLC.
