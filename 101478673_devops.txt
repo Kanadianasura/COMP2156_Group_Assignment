@@ -2,3 +2,4 @@ COMP 3104 DevOps covers CI/CD, automation, and collaboration.
 The course covers Docker and Kubernetes.
 DevOps involves continuous integration and monitoring.
 The course uses Jenkins for CI/CD pipelines.
+DevOps practices improve collaboration between teams.
