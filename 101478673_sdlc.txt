@@ -1,1 +1,2 @@
 DevOps streamlines SDLC by integrating development and operations.
+SDLC includes stages like planning, development, testing.
