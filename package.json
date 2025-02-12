@@ -1,0 +1,16 @@
+{
+  "name": "comp2156_group_assignment",
+  "version": "1.0.0",
+  "description": "DevOps Group Assignment for COMP2156",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" no test specified\" && exit 0"
+  } ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kanadianasura/COMP2156_Group_Assignment.git"
+  },
+  "author": "Ammar Vahora",
+  "license": "ISC"
+}
+

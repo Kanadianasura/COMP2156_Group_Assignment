@@ -1,0 +1,1 @@
+COMP 3104 - DevOps for System Administration is a course that covers DevOps principles, automation, and CI/CD practices. Students learn about version control with Git, containerization with Docker, orchestration with Kubernetes, and infrastructure as code (IaC) with Terraform. The course aims to bridge development and operations, increasing efficiency in software deployment.
