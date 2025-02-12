@@ -1,1 +1,2 @@
 COMP 3104 DevOps covers CI/CD, automation, and collaboration.
+The course covers Docker and Kubernetes.
