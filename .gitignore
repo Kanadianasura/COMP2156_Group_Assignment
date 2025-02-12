@@ -128,3 +128,28 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Ignore system directories
+AppData/
+.DS_Store
+node_modules/
+*.log
+*.cache
+
+# Ignore Brave Browser cache
+Brave-Browser/
+BraveSoftware/
+
+# Ignore all hidden system files
+*/
+# Ignore system files
+.bash_history
+.gitconfig
+.lesshst
+.packettracer
+NTUSER.*
+ntuser.*
+*.LOG1
+*.LOG2
+*.ini
+sh-keygen*
+main
