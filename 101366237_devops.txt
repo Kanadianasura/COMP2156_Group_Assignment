@@ -1,2 +1,3 @@
 COMP 3104 is a core component of the Computer Programming and Analysis advanced diploma program (T177) at George Brown College.
 Students in COMP 3104 will learn procedures, protocols and best practices for DevOps.
+Skills learned are taking responsibility, showing respesct and problem solving.
