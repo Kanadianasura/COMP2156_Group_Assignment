@@ -1,2 +1,3 @@
 DevOps enables Continuous Integration (CI) and Continuous Deployment (CD), automating code integration and testing.
 DevOps increases collaboration between teams and people.
+DevOps allows for improved monitoring, which leads to faster recovery from failures.
