@@ -1,0 +1,4 @@
+DevOps streamlines SDLC by integrating development and operations.
+SDLC includes stages like planning, development, testing.
+SDLC benefits from DevOps by improving software quality.
+Automated testing is crucial in SDLC.
