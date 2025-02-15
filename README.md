@@ -3,7 +3,7 @@
 ## Group Members
 
 - **Leader:** Ammar Vahora (101420573) - [GitHub](https://github.com/Kanadianasura)
-- **Member 1:** [Actual Member Name] (Student ID) - [GitHub](GitHub Profile Link)
+- **Member 1:** Omar Roble (101366237) - [GitHub](https://github.com/Omar-Roble)
 - **Member 2:** [Actual Member Name] (Student ID) - [GitHub](GitHub Profile Link)
 - **Member 3:** [Actual Member Name] (Student ID) - [GitHub](GitHub Profile Link)
 - **Member 4:** [Actual Member Name] (Student ID) - [GitHub](GitHub Profile Link)
